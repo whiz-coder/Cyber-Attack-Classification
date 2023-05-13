@@ -10,3 +10,7 @@ sion Tree Algorithm, K-Nearest Neighbors Algorithm, and Artificial Neural Networ
 (ANN). The performance of the algorithms will be evaluated using appropriate metrics
 such as accuracy, precision, recall, and F1 score. Lastly, the dataset will be labeled using
 clustering algorithms, and the results will be visualized using scatter plots.
+
+Results:
+
+![WhatsApp Image 2023-04-30 at 11 02 00 PM](https://github.com/whiz-coder/Cyber-Attack-Classification/assets/73718958/750f82c4-bd0d-4bcb-b959-612fb63cf2c7)
